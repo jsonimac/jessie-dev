@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Jessie-Dev",
+		title: "Jessie Caminos",
 		name: "Jessie Caminos",
 		email: "sonimac122699@gmail.com",
 		logo: "../logo.png",
