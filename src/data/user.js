@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Aspiring Full-stack Web Developer",
+		title: "Aspiring Full-Stack Web Developer",
 		description:
 			"Having successfully completed for almost two-year career as a Quality Assurance Engineer, I am enthusiastic about embarking on a fresh path as a Software Developer. With a genuine passion for coding and an unwavering commitment to ongoing learning, I am fully prepared to embrace the challenges and opportunities that accompany this thrilling career transition.",
 	},
