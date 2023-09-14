@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Jessie-Dev",
+		name: "Jessie Caminos",
+		email: "sonimac122699@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/jsonimac/",
+		linkedin: "https://www.linkedin.com/in/keepcodn/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Aspiring Full-stack Web Developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Having successfully completed for almost two-year career as a Quality Assurance Engineer, I am enthusiastic about embarking on a fresh path as a Software Developer. With a genuine passion for coding and an unwavering commitment to ongoing learning, I am fully prepared to embrace the challenges and opportunities that accompany this thrilling career transition.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Jessie C. I'm from Philippines, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I hold a Bachelor of Science degree in Information Technology, a foundational credential that has provided me with a strong theoretical background in the field. With nearly two years of professional experience as a Quality Assurance Engineer, I have honed my skills in ensuring the reliability and functionality of software products. Additionally, I have taken the initiative to further develop my expertise by delving into Fullstack Development, expanding my skill set to encompass both front-end and back-end technologies. This journey has allowed me to bring a holistic perspective to web development projects, combining my QA expertise with hands-on coding abilities to deliver high-quality, well-rounded solutions.",
 	},
 
 	articles: {
