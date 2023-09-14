@@ -159,10 +159,10 @@ const Homepage = () => {
 								target="_blank"
 								rel="noreferrer"
 							>
-								<FontAwesomeIcon
+								{/* <FontAwesomeIcon
 									icon={faMailBulk}
 									className="homepage-social-icon"
-								/>
+								/> */}
 							</a>
 						</div>
 
