@@ -109,7 +109,7 @@
 
 	.homepage-title {
 		width: 100% !important;
-		margin-top: 20px;
+		margin-top: 50px;
 		order: 2;
 	}
 
@@ -141,6 +141,8 @@
 
 	.homepage-articles {
 		flex-basis: auto;
+		margin-left: -25px;
+		margin-right: -25px;
 	}
 
 	.homepage-works {
