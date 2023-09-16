@@ -2,6 +2,8 @@ import React from 'react';
 import Card from '../common/card';
 import { faScrewdriverWrench } from '@fortawesome/free-solid-svg-icons';
 import './styles/skills.css';
+import SkillLogo from '../common/skillLogo';
+import INFO from '../../data/user';
 
 const Skills = () => {
   return (
@@ -12,24 +14,14 @@ const Skills = () => {
           title = 'Skills'
           body = {
             <div className='skills-container'>
-              <div className='skills-item'>
-                hello
-              </div>
-              <div className='skills-item'>
-                hello2
-              </div>
-              <div className='skills-item'>
-                hello
-              </div>
-              <div className='skills-item'>
-                hello2
-              </div>
-              <div className='skills-item'>
-                hello
-              </div>
-              <div className='skills-item'>
-                hello2
-              </div>
+              {INFO.skills.map((skills, index)=>(
+                <div className='skill-item' key={index}>
+                  <SkillLogo
+                    logoName ={skills.logoName}
+                    logoLink ={skills.logoLink}
+                  />
+                </div>
+              ))}
             </div>
           }
         />

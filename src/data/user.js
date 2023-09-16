@@ -38,7 +38,7 @@ const INFO = {
 			title: "Project 1",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -79,6 +79,47 @@ const INFO = {
 			link: "https://github.com",
 		},
 	],
+
+	skills: [
+		{
+			logoName: "HTML",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968267.png"
+		},
+		{
+			logoName: "CSS",
+			logoLink: "	https://cdn-icons-png.flaticon.com/512/732/732190.png"
+		},
+		{
+			logoName: "JavaScript",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+		},
+		{
+			logoName: "PHP",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
+		},
+		{
+			logoName: "Bootstrap",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+		},
+		{
+			logoName: "Laravel",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+		},
+		{
+			logoName: "ReactJs",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+		},
+		{
+			logoName: "NPM",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+		},
+		{
+			logoName: "Composer",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+		}
+		
+
+	]
 };
 
 export default INFO;
