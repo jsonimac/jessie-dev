@@ -8,12 +8,12 @@ import INFO from '../../data/user';
 const Skills = () => {
   return (
     <>
-      <div className='skills'>
+      <div className=''>
         <Card
           icon = {faScrewdriverWrench}
           title = 'Skills'
           body = {
-            <div className='skills-container'>
+            <div className='skills-container skills'>
               {INFO.skills.map((skills, index)=>(
                 <div className='skills-item' key={index}>
                   <SkillLogo

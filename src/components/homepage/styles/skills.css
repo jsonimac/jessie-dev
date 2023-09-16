@@ -13,8 +13,11 @@
 }
 
 @media (max-width: 600px) {
+  .skill{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
   .skills-container{
     grid-template-columns: auto auto auto !important;
-    width: 400px !important;
   }
 }
