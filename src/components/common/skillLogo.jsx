@@ -8,8 +8,9 @@ function SkillLogo(props) {
       <div className='skill-logo'>
         <img src={logoLink} alt="logo" />
       </div>
-      
-      <p>{logoName}</p>
+      <div>
+        {logoName}
+      </div>
     </>
   );
 }

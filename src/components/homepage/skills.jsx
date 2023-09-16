@@ -15,7 +15,7 @@ const Skills = () => {
           body = {
             <div className='skills-container'>
               {INFO.skills.map((skills, index)=>(
-                <div className='skill-item' key={index}>
+                <div className='skills-item' key={index}>
                   <SkillLogo
                     logoName ={skills.logoName}
                     logoLink ={skills.logoLink}

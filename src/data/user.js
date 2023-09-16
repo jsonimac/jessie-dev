@@ -83,7 +83,7 @@ const INFO = {
 	skills: [
 		{
 			logoName: "HTML",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968267.png"
+			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
 		},
 		{
 			logoName: "CSS",
@@ -94,30 +94,49 @@ const INFO = {
 			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
 		},
 		{
+			logoName: "Bootstrap",
+			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+		},
+		{
+			logoName: "ReactJS",
+			logoLink: "https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png"
+		},
+		{
+			logoName: "MUI",
+			logoLink: "https://mui.com/static/logo.png"
+		},
+		{
+			logoName: "PrimeReact",
+			logoLink: "https://www.primefaces.org/store/javax.faces.resource/store/image/primereact.svg.xhtml;jsessionid=B9F2A337AAD2F8245961D0BF2C3993FC"
+		},
+		{
 			logoName: "PHP",
 			logoLink: "https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
 		},
 		{
-			logoName: "Bootstrap",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+			logoName: "MySQL",
+			logoLink: "https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"
 		},
 		{
 			logoName: "Laravel",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+			logoLink: "https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"
 		},
 		{
-			logoName: "ReactJs",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+			logoName: "VSCode",
+			logoLink: "https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"
 		},
 		{
-			logoName: "NPM",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+			logoName: "Github",
+			logoLink: "https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png"
 		},
 		{
-			logoName: "Composer",
-			logoLink: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
+			logoName: "Laragon",
+			logoLink: "https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png"
+		},
+		{
+			logoName: "Thunder Client",
+			logoLink: "https://www.thunderclient.com/images/thunder-256-v2.png"
 		}
-		
 
 	]
 };
