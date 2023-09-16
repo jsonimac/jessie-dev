@@ -22,6 +22,7 @@ import SEO from "../data/seo";
 import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
+import Skills from "../components/homepage/skills";
 
 const Homepage = () => {
 	const [stayLogo, setStayLogo] = useState(false);
@@ -134,7 +135,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							<a
+							{/* <a
 								href={INFO.socials.stackoverflow}
 								target="_blank"
 								rel="noreferrer"
@@ -143,7 +144,7 @@ const Homepage = () => {
 									icon={faStackOverflow}
 									className="homepage-social-icon"
 								/>
-							</a>
+							</a> */}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -172,7 +173,8 @@ const Homepage = () => {
 
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
-								{myArticles.map((article, index) => (
+								<Skills />
+								{/* {myArticles.map((article, index) => (
 									<div
 										className="homepage-article"
 										key={(index + 1).toString()}
@@ -185,7 +187,7 @@ const Homepage = () => {
 											link={"/article/" + (index + 1)}
 										/>
 									</div>
-								))}
+								))} */}
 							</div>
 
 							<div className="homepage-works">
