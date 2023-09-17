@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Jessie C. I'm from Philippines, where I design the future.",
+		title: "Hi! I’m Jessie, from Philippines where I design the future.",
 		description:
 			"I hold a Bachelor of Science degree in Information Technology, a foundational credential that has provided me with a strong theoretical background in the field. With nearly two years of professional experience as a Quality Assurance Engineer, I have honed my skills in ensuring the reliability and functionality of software products. Additionally, I have taken the initiative to further develop my expertise by delving into Fullstack Development, expanding my skill set to encompass both front-end and back-end technologies. This journey has allowed me to bring a holistic perspective to web development projects, combining my QA expertise with hands-on coding abilities to deliver high-quality, well-rounded solutions.",
 	},
