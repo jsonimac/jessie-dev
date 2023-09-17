@@ -79,10 +79,10 @@
 	padding-top: 40px;
 }
 
-.homepage-articles {
-	flex-basis: 900px;
+.homepage-skills {
+	flex-basis: 810px;
 	padding-top: 30px;
-	margin-left: -30px;
+	margin-left: 0px;
 }
 
 .homepage-article {
@@ -139,7 +139,7 @@
 		flex-basis: auto;
 	}
 
-	.homepage-articles {
+	.homepage-skills {
 		flex-basis: auto;
 		margin-left: -25px;
 		margin-right: -25px;
