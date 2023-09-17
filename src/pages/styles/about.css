@@ -18,25 +18,26 @@
 	flex-direction: column;
 	height: 100%;
 	margin: 0;
-	padding-top: 120px;
+	padding-top: 60px;
 }
 
 .about-main {
+	margin-top: 50px;
 	display: flex;
-	align-items: center;
 }
 
 .about-right-side {
-	flex-basis: 550px;
+	flex-basis: 630px;
 }
 
 .about-title {
+	text-align: center;
 	width: 100% !important;
 }
 
 .about-subtitle {
-	text-align: justify;
-	width: 80% !important;
+	text-align: center;
+	width: 95% !important;
 }
 
 .about-left-side {
@@ -46,7 +47,8 @@
 }
 
 .about-image-container {
-	width: 370px;
+	margin-left: 41px;
+	width: 300px;
 }
 
 .about-image-wrapper {
@@ -110,7 +112,7 @@
 
 @media (max-width: 600px) {
 	.about-subtitle {
-		text-align: justify;
+		text-align: start;
 		width: 100% !important;
 	}
 
@@ -119,6 +121,6 @@
 	}
 
 	.about-image-container {
-		width: 90%;
+		width: 75%;
 	}
 }

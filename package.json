@@ -3,9 +3,9 @@
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Jessie Caminos",
+		"email": "sonimac122699@gmail.com",
+		"url": "https://jessie-dev.vercel.app/"
 	},
 	"license": "MIT",
 	"private": true,
