@@ -12,7 +12,13 @@ const AllProjects = () => {
 			{INFO.projects.map((project, index) => (
 				<div className="all-projects-project" key={index}>
 					<Project
-						logo={project.logo}
+						logos = {
+								<div className="project-logo">
+									{project.logos.map((logo, index) => (
+										<img src={logo.logo} alt="logo" key={index}/>
+									))}
+								</div>
+							}
 						title={project.title}
 						description={project.description}
 						linkText={project.linkText}

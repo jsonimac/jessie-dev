@@ -27,18 +27,35 @@ const INFO = {
 			"I hold a Bachelor of Science degree in Information Technology, a foundational credential that has provided me with a strong theoretical background in the field. With nearly two years of professional experience as a Quality Assurance Engineer, I have honed my skills in ensuring the reliability and functionality of software products. Additionally, I have taken the initiative to further develop my expertise by delving into Fullstack Development, expanding my skill set to encompass both front-end and back-end technologies. This journey has allowed me to bring a holistic perspective to web development projects, combining my QA expertise with hands-on coding abilities to deliver high-quality, well-rounded solutions.",
 	},
 
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	},
+	// articles: {
+	// 	title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+	// 	description:
+	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+	// },
 
 	projects: [
 		{
 			title: "Resume",
 			description:
 				"A static Resume Website that build in using HTML, CSS, JavaScript and Bootstrap ",
-			logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
+			logos: [
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",	
+				},
+				
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/732/732190.png",	
+				},
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",	
+				},
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/5968/5968672.png",	
+				},
+				{
+					logo: "https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png",	
+				},
+			],
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -46,8 +63,25 @@ const INFO = {
 		{
 			title: "Visit Mis Occ",
 			description:
-				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental. This site is build in using ReactJs and MaterialUI",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental.",
+			logos: [
+					{
+						logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",	
+					},
+					
+					{
+						logo: "https://cdn-icons-png.flaticon.com/512/732/732190.png",	
+					},
+					{
+						logo: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",	
+					},
+					{
+						logo: "https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png",	
+					},
+					{
+						logo: "https://mui.com/static/logo.png",	
+					},
+				],
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -55,8 +89,31 @@ const INFO = {
 		{
 			title: "Philippine Public Toilets",
 			description:
-				"This will show all public toilets available in the philippines. User can also do CRUD by after registration.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"This will show all public toilets available in the philippines. This site is a fullstack application.",
+			logos: [
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",	
+				},
+				
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/732/732190.png",	
+				},
+				{
+					logo: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",	
+				},
+				{
+					logo: "https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png",	
+				},
+				{
+					logo: "https://mui.com/static/logo.png",	
+				},
+				{
+					logo: "https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png",	
+				},
+				{
+					logo: "https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png",	
+				},
+			],
 			linkText: "View Project",
 			link: "https://github.com",
 		},
