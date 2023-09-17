@@ -3,7 +3,7 @@ const INFO = {
 		title: "Jessie Caminos",
 		name: "Jessie Caminos",
 		email: "sonimac122699@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo1.png",
 	},
 
 	socials: {
@@ -35,46 +35,28 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Resume",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A static Resume Website that build in using HTML, CSS, JavaScript and Bootstrap ",
 			logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Visit Mis Occ",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental. This site is build in using ReactJs and MaterialUI",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "Philippine Public Toilets",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This will show all public toilets available in the philippines. User can also do CRUD by after registration.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},

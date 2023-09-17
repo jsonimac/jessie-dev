@@ -7,8 +7,8 @@
 	padding-top: 100px;
 }
 
-.homepage-container {
-}
+/* .homepage-container {
+} */
 
 .homepage-first-area {
 	display: flex;
@@ -22,11 +22,8 @@
 	align-items: flex-start;
 }
 
-.homepage-title {
-	width: 85% !important;
-}
-
-.homepage-subtitle {
+.homepage-subtitle, .homepage-title {
+	text-align: center;
 	width: 85% !important;
 }
 
