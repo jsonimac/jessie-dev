@@ -35,7 +35,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Resume",
+			title: "Resume - Ongoing...",
 			description:
 				"A static Resume Website that build in using HTML, CSS, JavaScript and Bootstrap ",
 			logos: [
@@ -61,7 +61,7 @@ const INFO = {
 		},
 
 		{
-			title: "Visit Mis Occ",
+			title: "Visit Mis Occ - Ongoing...",
 			description:
 				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental.",
 			logos: [
@@ -87,7 +87,7 @@ const INFO = {
 		},
 
 		{
-			title: "Philippine Public Toilets",
+			title: "Philippine Public Toilets - Ongoing...",
 			description:
 				"This will show all public toilets available in the philippines. This site is a fullstack application.",
 			logos: [
