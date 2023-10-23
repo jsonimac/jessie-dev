@@ -54,10 +54,9 @@ const Contact = () => {
 							</a>
 							. I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
+							periods. Alternatively, you can download my <u><a href="https://drive.google.com/file/d/1eIVJ0lVSZioPQayUYAQCBFQOJrWD0BUG/view?usp=drive_link" target="_blank">resume </a></u> 
+							and contact me through the available contact information. 
+							Finally, if you prefer to connect on
 							social media, you can find me on{" "}
 							<a
 								href={INFO.socials.instagram}

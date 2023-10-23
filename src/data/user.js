@@ -10,9 +10,9 @@ const INFO = {
 		twitter: "https://twitter.com/JessieCaminos",
 		github: "https://github.com/jsonimac/",
 		linkedin: "https://www.linkedin.com/in/keepcodn/",
-		instagram: "https://www.instagram.com/",
+		instagram: "https://www.instagram.com/keep_codn/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		facebook: "https://www.facebook.com/Jsonimac2699",
 	},
 
 	homepage: {
