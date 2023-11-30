@@ -54,7 +54,7 @@ const Contact = () => {
 							</a>
 							. I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can download my <u><a href="https://drive.google.com/file/d/1eIVJ0lVSZioPQayUYAQCBFQOJrWD0BUG/view?usp=drive_link" target="_blank" rel="noreferrer">resume </a></u> 
+							periods. Alternatively, you can download my <u><a href="https://drive.google.com/file/d/1I0uK_6wq6AXJX-JhKZ7h2l_6bTy9pX1t/view?usp=drive_link" target="_blank" rel="noreferrer">resume </a></u> 
 							and contact me through the available contact information. 
 							Finally, if you prefer to connect on
 							social media, you can find me on{" "}
