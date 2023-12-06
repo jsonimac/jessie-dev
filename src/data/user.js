@@ -35,9 +35,9 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Resume - Ongoing...",
+			title: "Visit Mis Occ - Ongoing...",
 			description:
-				"A static Resume Website that build in using HTML, CSS, JavaScript and Bootstrap ",
+				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental.",
 			logos: [
 				{
 					logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",	
@@ -52,18 +52,15 @@ const INFO = {
 				{
 					logo: "https://cdn-icons-png.flaticon.com/512/5968/5968672.png",	
 				},
-				{
-					logo: "https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png",	
-				},
 			],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://jsonimac.github.io/",
 		},
 
 		{
-			title: "Visit Mis Occ - Ongoing...",
+			title: "Resume - Ongoing...",
 			description:
-				"This website showcase the beauty of Misamis Occidental which it show different tourist spots that are located inside Misamis Occidental.",
+				"A static Resume Website that build in using HTML, CSS, ReactJs and Material UI",
 			logos: [
 					{
 						logo: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",	
