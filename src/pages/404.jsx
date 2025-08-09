@@ -18,11 +18,11 @@ const Notfound = () => {
 	return (
 		<React.Fragment>
 			<div className="not-found page-content">
-				<NavBar />
+				{/* <NavBar /> */}
 				<div className="content-wrapper">
 					<div className="notfound-logo-container">
 						<div className="projects-logo">
-							<Logo width={46} />
+							{/* <Logo width={46} /> */}
 						</div>
 					</div>
 					<div className="notfound-container">
@@ -31,15 +31,15 @@ const Notfound = () => {
 								Oops! <FontAwesomeIcon icon={faFaceSadTear} />
 							</div>
 							<div className="not-found-message">
-								We can't seem to find the page you're looking
-								for.
+								Page is under construction.
 								<br />
-								The requested URL "{window.location.href}" was
-								not found on this server.
+								Currently working for new Portfolio 😉
+								{/* The requested URL "{window.location.href}" was
+								not found on this server. */}
 							</div>
-							<a href="/" className="not-found-link">
+							{/* <a href="/" className="not-found-link">
 								Go back to the home page
-							</a>
+							</a> */}
 						</div>
 					</div>
 				</div>
